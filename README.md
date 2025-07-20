@@ -27,5 +27,3 @@ Instructions coming soon.
 ## Blog
 
 Full write-up: [https://aaron-mok.github.io/blog/pianokeydetection](https://aaron-mok.github.io/blog/pianokeydetection)
-
-⚠️ This project is released under the MIT License for personal and educational use only. Commercial use is prohibited. Please contact me if you're interested in licensing.
